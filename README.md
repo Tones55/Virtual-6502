@@ -1,3 +1,8 @@
+# Important information  
+The project was originally forked from professor Gormanly's repository. 
+I created this new repository so I could make my work public.  
+README and a small ammount of starting code was created by Professor Gormanly.
+
 # tsiraM-6502
 tsiraM is a virtual 6502 processor written in TypeScript and running on Node.js.  This project is the practical component of Prof. Gormanly's Computer Organization and Architecture class.  This project strives to accomplish the following goals:
 - A deep understanding of how the machine works. There is no better way to learn how computers actually work than to build one!
